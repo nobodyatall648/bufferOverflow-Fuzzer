@@ -1,2 +1,3 @@
-# bufferOverflow Fuzzer
- Fuzzing script used to check for BufferOverflow 
+# Buffer Overflow Fuzzer Script
+
+used to fuzz the bytes that make the program crash.
